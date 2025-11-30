@@ -1,6 +1,7 @@
 # MCP Sentinel: Local Security Auditor
 
 ## mcp-in-action-track-consumer
+https://x.com/TutorAi16756/status/1995061646080061697?s=20
 
 MCP Sentinel is an intelligent local security auditing agent powered by the **Model Context Protocol (MCP)**. It leverages a suite of specialized MCP servers to inspect, monitor, and maintain your system's security posture, all accessible through a user-friendly **Gradio** interface.
 
